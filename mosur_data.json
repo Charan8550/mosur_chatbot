@@ -1,0 +1,42 @@
+{
+  "company_name": "MosurTech",
+  "services": [
+    "Website Development",
+    "Mobile App Development",
+    "ERP Solutions",
+    "E-commerce Platforms",
+    "AI Chatbots",
+    "UI/UX Design"
+  ],
+  "pricing": {
+    "website": "₹25,000 – ₹1,50,000 depending on pages and features.",
+    "mobile_app": "₹1,00,000 – ₹6,00,000 depending on complexity.",
+    "erp": "₹2,00,000+ based on modules.",
+    "ai_chatbot": "₹50,000 – ₹3,00,000 depending on integrations."
+  },
+  "timelines": {
+    "website": "2–4 weeks",
+    "mobile_app": "1–4 months",
+    "erp": "3–6 months",
+    "ai_chatbot": "2–6 weeks"
+  },
+  "process": [
+    "Requirement gathering",
+    "UI/UX design",
+    "Development",
+    "Testing",
+    "Deployment",
+    "Maintenance & support"
+  ],
+  "portfolio": [
+    "Healthcare appointment system",
+    "School ERP platform",
+    "Fashion e-commerce site",
+    "Customer support chatbot"
+  ],
+  "contact": {
+    "email": "contact@mosurtech.com",
+    "phone": "+91-XXXXXXXXXX",
+    "location": "India"
+  }
+}
